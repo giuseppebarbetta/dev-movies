@@ -10,17 +10,25 @@ export const Movies = ({ data, handleVideo }) => {
       items: 8,
     },
     desktop: {
-      breakpoint: { max: 3000, min: 1024 },
+      breakpoint: { max: 2999, min: 1216 },
       items: 6,
     },
     tablet: {
-      breakpoint: { max: 1024, min: 464 },
+      breakpoint: { max: 1215, min: 875 },
       items: 4,
     },
+    tabletMini: {
+      breakpoint: { max: 874, min: 687 },
+      items: 3,
+    },
     mobile: {
-      breakpoint: { max: 464, min: 0 },
+      breakpoint: { max: 686, min: 0 },
       items: 2,
     },
+    // mobileMini: {
+    //   breakpoint: { max: 429, min: 0 },
+    //   items: 1,
+    // },
   };
 
   const getMovies = (category) => {

@@ -43,6 +43,10 @@ export const Movie = styled.img`
   transform: scale(0.9);
   transition: 0.3s;
 
+  @media (max-width: 419px) {
+    width: 170px;
+  }
+
   &:hover {
     transform: scale(1);
   }
