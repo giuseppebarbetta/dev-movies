@@ -15,15 +15,11 @@
 
   <h2>Previa:</h2>
 
-  <div>
-  <img src='https://github.com/giuseppebarbetta/dev-movies/assets/148505073/844f9b9f-3488-47d5-b296-15205b671e05' />
-  <img src='https://github.com/giuseppebarbetta/dev-movies/assets/148505073/4519609b-b1b6-4689-bddf-101189948de3' />
-  <img src='https://github.com/giuseppebarbetta/dev-movies/assets/148505073/304f315e-b53d-4089-bda6-997feddccb49' />
-  </div>
+  <img src='https://github.com/giuseppebarbetta/dev-movies/assets/148505073/3fe2b8a3-34f8-4b0c-a5e8-3ce83ee411da' />
 
   <h2>Tecnologias Utilizadas</h2>
   <div display: flex>
-    <p>Front-end:</p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="98px" height="26px" alt='React-logo'> <br><br>
+    <p>Front-end:</p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="98px" height="26px" alt='React-logo'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' width="98px" height="26px" alt='CSS logo'> <br><br>
     <p>Back-end:</p><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="98px" height="26px" alt='Mongo-logo'>
   </div><br>
 
